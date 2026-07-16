@@ -8,5 +8,6 @@
 | Arrays and Sliding Window  | 23       |
 | Strings                    | 21       |
 | Greedy and Heap            | 20       |
+| IMP                        | 21       |
 | Miscellaneous              | 33       |
-| **Total**                  | **177**  |
+| **Total**                  | **201**  |
